@@ -1,0 +1,18 @@
+1. What is Git?
+
+Git is a version control system that helps you:
+
+2. Install Git
+
+Download and install from the official site:
+
+Git official website
+
+3. Advantages:
+Track changes in your code
+Collaborate with others
+Restore previous versions if something breaks
+
+4. Example Remote Repositories
+GitHub
+Bitbucket
