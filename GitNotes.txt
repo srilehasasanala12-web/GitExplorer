@@ -12,3 +12,7 @@ Git official website
 Track changes in your code
 Collaborate with others
 Restore previous versions if something breaks
+
+4. Example Remote Repositories
+GitHub
+Bitbucket
