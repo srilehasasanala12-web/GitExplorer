@@ -13,8 +13,8 @@ Track changes in your code
 Collaborate with others
 Restore previous versions if something breaks
 
-4. Example Remote Repositories
+4.1 Example Remote Repositories
 GitHub
 Bitbucket
 
-5. Remote Dir: https://github.com/srilehasasanala12-web
+4.2. Remote Dir: https://github.com/srilehasasanala12-web -- GitHub
